@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Mohammad Ataullah 👋
+Fourth-year CSE student. I build projects in Python and I'm learning web development.
 
-<!--
-**mohammadataullah231003212/mohammadataullah231003212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I'm working on
+- Inventory and Expense Tracker for general shops
+-  Personal portfolio website (HTML, CSS, JavaScript)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python, C
+- Java proficient
+
+## Open to
+- Online tutoring (programming basics)
+- Remote junior / part-time roles
+## Contact
+- Email: mohammadataullah3212@gmail.com
